@@ -57,6 +57,7 @@
 /* === Import template variables === */
 /*-------------------------------------------------------------------*/
 /* === SCSS Compass Functions === */
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 @-moz-keyframes flash {
@@ -14378,11 +14379,11 @@ address p {
   margin: 0.38rem 0 0.75rem; }
 
 .card-title {
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   color: #404852;
   margin-bottom: 22px;
-  font-size: 14px;
+  font-size: 20px;
   text-transform: capitalize; }
   .rtl .card-title {
     text-align: right; }
