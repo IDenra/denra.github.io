@@ -1,0 +1,21 @@
+.logo {
+    /*padding-left: -100px!important;*/
+    background-size: 100% auto;
+    background-color: #c4cbd5;
+    z-index: -10000;
+}
+
+.sidenav {
+    z-index: 10000;
+    min-height: 100vh;
+}
+
+main {
+    /*background: #00ccff;*/
+}
+
+/*.material-icons.md-nav {padding-top: px}*/
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-28 { font-size: 28px; }
+.material-icons.md-36 { font-size: 36px; }
