@@ -1,23 +1,13 @@
 .logo {
-    /*padding-left: -100px!important;*/
     background-size: 100%;
     background-color: #c4cbd5;
-    /* width: 200px;
-    height: 150px;
-    overflow: hidden; */
+    overflow: hidden; 
     z-index: -10000;
-}
-
-.logo img {
-    /* width: 400px;
-    height: 300px;
-    margin: -75px 0 0 -100px;
-    background-position: center; */
 }
 
 .sidenav {
     z-index: 10000;
-    /* min-height: 100vh; */
+    min-height: 100vh;
 }
 
 main {
