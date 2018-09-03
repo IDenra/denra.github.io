@@ -5,16 +5,15 @@
     z-index: -10000;
 }
 
-.sidenav {
+.sidebar {
     z-index: 10000;
     min-height: 100vh;
 }
 
-main {
-    /*background: #00ccff;*/
+.main {
+    border-left: 1px solid #c4cbd5;
 }
 
-/*.material-icons.md-nav {padding-top: px}*/
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-28 { font-size: 28px; }
